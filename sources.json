@@ -1,0 +1,9 @@
+{
+  "file": "data/china-provinces.geojson",
+  "sha256": "aebcd73acc1bae5ca7161a5cd87b2c61e0387984c959a2c84c237e33f161f613",
+  "source_page": "https://cloudcenter.tianditu.gov.cn/administrativeDivision/",
+  "source_api": "https://cloudcenter.tianditu.gov.cn/api/portal/region/map?gb=156000000&level=2",
+  "source_data_date": "2025-09 (as shown by the source visualization page at initial retrieval)",
+  "extracted_from": "https://github.com/flamingo15490/flamingo15490.github.io/tree/4c37249a0e82588813afe744c4041a234fbfa80a",
+  "license_scope": "Third-party map data is excluded from the code MIT license; no additional data rights are granted by this repository."
+}
